@@ -1,1 +1,1 @@
-Nhóm 10 - Môn QLQTPM - ÐH KHTN
+Nhom 10 - QLQTPM - DH KHTN
