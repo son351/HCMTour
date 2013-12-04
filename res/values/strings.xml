@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HCMTour</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_map_view">Map</string>
+    <string name="location_searching">Show your location!</string>
+    <string name="title_activity_pictures">Picture</string>
+    <string name="share">Share</string>
+
+</resources>

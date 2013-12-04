@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_items">
+        <item>Map</item>
+        <item>Bookmarks</item>
+        <item>What to see</item>
+        <item>Search</item>
+        <item>Pictures</item>
+        <item>About</item>
+        <item>Exit</item>
+    </string-array>    
+    
+    <string-array name="pictures">
+        <item>aodai</item>
+        <item>cave</item>
+        <item>colorful</item>
+        <item>field</item>
+        <item>halong</item>
+        <item>halongboat</item>
+        <item>hue</item>
+        <item>market</item>
+        <item>mekongdelta</item>
+        <item>morning</item>
+        <item>night</item>
+        <item>vendor</item>
+        <item>water</item>
+    </string-array>  
+
+</resources>
